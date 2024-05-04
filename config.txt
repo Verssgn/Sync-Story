@@ -1,0 +1,2 @@
+Playnite=
+RestartAfterSync=False
