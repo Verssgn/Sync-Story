@@ -21,7 +21,7 @@ Check the [Wiki](https://github.com/Verssgn/Sync-Story/wiki/Setup) for setup tut
 
 ---
 ### TODO
-- Rewrite it to make not trash
+- Rewrite it to make it not trash
 - Add custom folder support
 - Add more emulators
 - Figure out a way to update games without restarting or just remove restart feature
