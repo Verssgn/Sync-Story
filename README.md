@@ -5,7 +5,7 @@
 [Success story](https://github.com/Lacro59/playnite-successstory-plugin) is a plugin for playnite that allows you to use achievements.
 This is a simple script that fetches achievement data from the Goldberg Emu folder in %appdata% and puts it in the Success Story files.
 
-Check the Wiki for setup tutorial
+Check the [Wiki](https://github.com/Verssgn/Sync-Story/wiki/Setup) for setup tutorial
 
 > [!CAUTION]
 > **For now the achievements will only update after you restart playnite.**
