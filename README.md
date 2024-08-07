@@ -1,5 +1,5 @@
-![Releases](https://img.shields.io/badge/DOWNLOAD-green?logo=Python&logoColor=white&link=https%3A%2F%2Fgithub.com%2FVerssgn%2FSync-Story%2Freleases%2Ftag%2F1.0)
 [![Latest)](https://img.shields.io/github/v/release/Verssgn/Sync-Story?cacheSeconds=5000&logo=github)](https://github.com/Verssgn/Sync-Story/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/Verssgn/Sync-Story/total.svg)]()
 
 # SYNC STORY
 [Success story](https://github.com/Lacro59/playnite-successstory-plugin) is a plugin for playnite that allows you to use achievements.
