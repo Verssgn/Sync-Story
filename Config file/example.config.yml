@@ -1,0 +1,23 @@
+settings: # If you want to use this file rename the example.config.yml to config.uml
+  Playnite location: # location of your playnite folder
+  Playnite exe: # location of the exe that starts playnite usually inside the playnite folder
+  Restart after sync: false # 
+libraries:
+  GOLDBERG (Original) [Shipped]: 
+    status: true # You can disable this library if you want to
+    path: APPDATA\Goldberg SteamEmu Saves # Edit this path if you are using fork 
+    folder data type: steam_id
+    data file: achievements.json
+    name type: apiname
+    time type: unix timestamp
+    ignore time: 0
+    time line: 'earned_time'
+  RUNE [Shipped]: 
+    status: true # You can disable this library if you want to
+    path: C:\Users\Public\Documents\Steam\RUNE 
+    folder data type: steam_id
+    data file: achievements.ini
+    name type: apiname
+    time type: unix timestamp
+    ignore time: 0
+    time line: 'UnlockTime'
