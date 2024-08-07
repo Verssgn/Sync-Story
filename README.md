@@ -4,25 +4,30 @@
 
 # SYNC STORY
 [Success story](https://github.com/Lacro59/playnite-successstory-plugin) is a plugin for playnite that allows you to use achievements.
-This is a simple script that fetches achievement data from the Goldberg Emu folder in %appdata% and puts it in the Success Story files.
+This is a simple script that fetches achievement data from a preconfigured library and syncs it to the Success Story extension.
 
-Check the [Wiki](https://github.com/Verssgn/Sync-Story/wiki/Setup) for setup tutorial
+You can get the script in the [github releases](https://github.com/Verssgn/Sync-Story/releases).
 
-> [!CAUTION]
-> **For now the achievements will only update after you restart playnite.**
+Make sure you check out the [setup tutorial](https://github.com/Verssgn/Sync-Story/wiki/Setup).
 
-> _The restart feature in config is scuffed right now, so you shoudnt use it also..._
+## Maintaining and troubleshooting
+Originally, I made this script for myself, but since there haven’t been any other scripts that function like this, I decided to share it. I am pointing this out because I am not a programmer, a lot of the script is written badly to the point I had to use AI at parts to fix some of it. There are many ways this script could be improved, and I wholeheartedly support anyone making forks and changes to this plugin. You can always ask for help in the thread. 
+
+## Quarks and customization
+You can setup your own library that works by importing data from diffferent emulators.
+
+The issue is that the way the script currently gets data is very rigid, for example emulators that save data in their game folder will not work, the script also uses a very specific way to parse data so if the emulator uses prefixes or suffixes for the achievement names it will not work. 
+
+The biggest issue so far is the fact that the script doesn't have conflict managment meaning if you have 2 same games in different emulators they will currently overwrite each other.
 
 ---
-### Current support:
+### Current support (When configured):
 | Emualtor  | Supported |
 | ------------- | ------------- |
-| Goldberg Emulator  | ✅  |
-| Custom folder support  | soon  |
+| Goldberg Emulator [Original] (tested - Ships with script)  | ✅  |
+| RUNE (tested - Ships with script)  | ✅  |
+| Goldberg forks (should work but you will need to change the path)  | 🟧  |
+| Scripts that use a central folder should work (Skidrow, Empress)  | 🟧  |
+| Scripts that use game folders for storing data or use different layout for storing achievements | 🟥  |
 
----
-### TODO
-- Rewrite it to make it not trash
-- Add custom folder support
-- Add more emulators
-- Figure out a way to update games without restarting or just remove restart feature
+
