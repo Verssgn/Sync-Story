@@ -9,6 +9,9 @@ You can get the script in the [github releases](https://github.com/Verssgn/Sync-
 
 Make sure you check out the [setup tutorial](https://github.com/Verssgn/Sync-Story/wiki/Setup).
 
+> [!WARNING]
+> Since nobody has yet confirmed version 2 has worked for them, if it doesn't for you, check out [version 1](https://github.com/Verssgn/Sync-Story/releases/tag/1.0)
+
 ## Maintaining and troubleshooting
 Originally, I made this script for myself, but since there haven’t been any other scripts that function like this, I decided to share it. I am pointing this out because I am not a programmer, a lot of the script is written badly to the point I had to use AI at parts to fix some of it. There are many ways this script could be improved, and I wholeheartedly support anyone making forks and changes to this script. You can always ask for help in the thread. 
 
