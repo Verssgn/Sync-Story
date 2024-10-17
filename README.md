@@ -9,6 +9,12 @@ You can get the script in the [github releases](https://github.com/Verssgn/Sync-
 
 Make sure you check out the [setup tutorial](https://github.com/Verssgn/Sync-Story/wiki/Setup).
 
+> [!NOTE]
+> ## Important
+> Success Story actually supports emu games, there is no documentation on the Git Hub, but if you go to the success story extension data folder and go to the config.json you can Enable local achievements. I was not able to get this to work (The reason why this repo is not archived). 
+> 
+> In theory, using this method would be way more consistent, but from what I've seen would also require you to add all games manually to the config. The advantage of my script is that it does all of it automatically, but at the same time it is also pretty scuffed. 
+
 ## Maintaining and troubleshooting
 Originally, I made this script for myself, but since there haven’t been any other scripts that function like this, I decided to share it. I am pointing this out because I am not a programmer, a lot of the script is written badly to the point I had to use AI at parts to fix some of it. There are many ways this script could be improved, and I wholeheartedly support anyone making forks and changes to this script. You can always ask for help in the thread. 
 
