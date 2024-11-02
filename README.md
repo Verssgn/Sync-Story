@@ -15,6 +15,9 @@ Make sure you check out the [setup tutorial](https://github.com/Verssgn/Sync-Sto
 > 
 > In theory, using this method would be way more consistent, from the code it seems like it can scan Goldberg and other emus but from what I've seen all the people who were able to get it to work added games manually, meaning it would require you to add all games to the config manually. The advantage of my script is that it does all of it automatically, but at the same time, it is also pretty scuffed. 
 
+> [!TIP]
+> If the script is not loading a specific game, check if the game's json file in Playnite\ExtensionsData\cebe6d32-8c46-4459-b993-5a5189d60788\SuccessStory\ has "IsManual": true
+
 ## Maintaining and troubleshooting
 Originally, I made this script for myself, but since there haven’t been any other scripts that function like this, I decided to share it. I am pointing this out because I am not a programmer, a lot of the script is written badly to the point I had to use AI at parts to fix some of it. There are many ways this script could be improved, and I wholeheartedly support anyone making forks and changes to this script. You can always ask for help in the thread. 
 
