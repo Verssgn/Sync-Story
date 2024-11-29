@@ -2,6 +2,19 @@
 [![Downloads](https://img.shields.io/github/downloads/Verssgn/Sync-Story/total.svg)]()
 
 # SYNC STORY
+
+> [!TIP]
+> # HOW TO GET ACHIEVEMENTS ON NON-STEAM GAMES GAMES
+> The script is now archived, it should still work, but there is a better way.
+> Please check out **eFMann's fork [(LINK)](https://github.com/eFMann/playnite-successstory-plugin)** of a success story that has integrated support for many emulators (Right-click an entry -> Force SteamAppID)
+
+>
+> # Background
+>Thanks to the user u/Korieb98 for letting me know of the fork. When I started working on it the goal was to bring achievements from Goldberg to a success story, while the script was/is not great as I am not a programmer. I always said once there is a better solution I would retire it.  I still hope that it was useful. If the fork does not work for you can still use this script. Just know there might be issues.
+
+---
+# SYNC STORY (ARCHIVED)
+
 [Success story](https://github.com/Lacro59/playnite-successstory-plugin) is a plugin for playnite that allows you to use achievements.
 This is a simple script that fetches achievement data from a preconfigured library and syncs it to the Success Story extension.
 
