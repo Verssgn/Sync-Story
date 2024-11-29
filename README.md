@@ -1,10 +1,8 @@
 [![Latest)](https://img.shields.io/github/v/release/Verssgn/Sync-Story?cacheSeconds=5000&logo=github)](https://github.com/Verssgn/Sync-Story/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/Verssgn/Sync-Story/total.svg)]()
 
-# SYNC STORY
-
 > [!TIP]
-> # HOW TO GET ACHIEVEMENTS ON NON-STEAM GAMES GAMES
+> # HOW TO GET ACHIEVEMENTS ON NON-STEAM GAMES
 > The script is now archived, it should still work, but there is a better way.
 > Please check out **eFMann's fork [(LINK)](https://github.com/eFMann/playnite-successstory-plugin)** of a success story that has integrated support for many emulators (Right-click an entry -> Force SteamAppID)
 
